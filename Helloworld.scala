@@ -1,6 +1,6 @@
 package com.scala.basics.helloworld
 
-object scala extends App {
+object Helloworld extends App {
   println("Hello World from scala")
 
 }
